@@ -1,0 +1,16 @@
+/workspaces/jar-rs/target/debug/deps/zip-3a1524f1b7a13ed8.rmeta: /home/codespace/.cargo/registry/src/github.com-1ecc6299db9ec823/zip-0.6.3/src/lib.rs /home/codespace/.cargo/registry/src/github.com-1ecc6299db9ec823/zip-0.6.3/src/aes.rs /home/codespace/.cargo/registry/src/github.com-1ecc6299db9ec823/zip-0.6.3/src/aes_ctr.rs /home/codespace/.cargo/registry/src/github.com-1ecc6299db9ec823/zip-0.6.3/src/compression.rs /home/codespace/.cargo/registry/src/github.com-1ecc6299db9ec823/zip-0.6.3/src/cp437.rs /home/codespace/.cargo/registry/src/github.com-1ecc6299db9ec823/zip-0.6.3/src/crc32.rs /home/codespace/.cargo/registry/src/github.com-1ecc6299db9ec823/zip-0.6.3/src/read.rs /home/codespace/.cargo/registry/src/github.com-1ecc6299db9ec823/zip-0.6.3/src/result.rs /home/codespace/.cargo/registry/src/github.com-1ecc6299db9ec823/zip-0.6.3/src/spec.rs /home/codespace/.cargo/registry/src/github.com-1ecc6299db9ec823/zip-0.6.3/src/types.rs /home/codespace/.cargo/registry/src/github.com-1ecc6299db9ec823/zip-0.6.3/src/write.rs /home/codespace/.cargo/registry/src/github.com-1ecc6299db9ec823/zip-0.6.3/src/zipcrypto.rs
+
+/workspaces/jar-rs/target/debug/deps/zip-3a1524f1b7a13ed8.d: /home/codespace/.cargo/registry/src/github.com-1ecc6299db9ec823/zip-0.6.3/src/lib.rs /home/codespace/.cargo/registry/src/github.com-1ecc6299db9ec823/zip-0.6.3/src/aes.rs /home/codespace/.cargo/registry/src/github.com-1ecc6299db9ec823/zip-0.6.3/src/aes_ctr.rs /home/codespace/.cargo/registry/src/github.com-1ecc6299db9ec823/zip-0.6.3/src/compression.rs /home/codespace/.cargo/registry/src/github.com-1ecc6299db9ec823/zip-0.6.3/src/cp437.rs /home/codespace/.cargo/registry/src/github.com-1ecc6299db9ec823/zip-0.6.3/src/crc32.rs /home/codespace/.cargo/registry/src/github.com-1ecc6299db9ec823/zip-0.6.3/src/read.rs /home/codespace/.cargo/registry/src/github.com-1ecc6299db9ec823/zip-0.6.3/src/result.rs /home/codespace/.cargo/registry/src/github.com-1ecc6299db9ec823/zip-0.6.3/src/spec.rs /home/codespace/.cargo/registry/src/github.com-1ecc6299db9ec823/zip-0.6.3/src/types.rs /home/codespace/.cargo/registry/src/github.com-1ecc6299db9ec823/zip-0.6.3/src/write.rs /home/codespace/.cargo/registry/src/github.com-1ecc6299db9ec823/zip-0.6.3/src/zipcrypto.rs
+
+/home/codespace/.cargo/registry/src/github.com-1ecc6299db9ec823/zip-0.6.3/src/lib.rs:
+/home/codespace/.cargo/registry/src/github.com-1ecc6299db9ec823/zip-0.6.3/src/aes.rs:
+/home/codespace/.cargo/registry/src/github.com-1ecc6299db9ec823/zip-0.6.3/src/aes_ctr.rs:
+/home/codespace/.cargo/registry/src/github.com-1ecc6299db9ec823/zip-0.6.3/src/compression.rs:
+/home/codespace/.cargo/registry/src/github.com-1ecc6299db9ec823/zip-0.6.3/src/cp437.rs:
+/home/codespace/.cargo/registry/src/github.com-1ecc6299db9ec823/zip-0.6.3/src/crc32.rs:
+/home/codespace/.cargo/registry/src/github.com-1ecc6299db9ec823/zip-0.6.3/src/read.rs:
+/home/codespace/.cargo/registry/src/github.com-1ecc6299db9ec823/zip-0.6.3/src/result.rs:
+/home/codespace/.cargo/registry/src/github.com-1ecc6299db9ec823/zip-0.6.3/src/spec.rs:
+/home/codespace/.cargo/registry/src/github.com-1ecc6299db9ec823/zip-0.6.3/src/types.rs:
+/home/codespace/.cargo/registry/src/github.com-1ecc6299db9ec823/zip-0.6.3/src/write.rs:
+/home/codespace/.cargo/registry/src/github.com-1ecc6299db9ec823/zip-0.6.3/src/zipcrypto.rs:
